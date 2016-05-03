@@ -1,0 +1,12 @@
+[submodule "ios-nanodegree-MemeMe"]
+	path = ios-nanodegree-MemeMe
+	url = https://github.com/kinant/ios-nanodegree-MemeMe
+[submodule "ios-nanodegree-OnTheMap"]
+	path = ios-nanodegree-OnTheMap
+	url = https://github.com/kinant/ios-nanodegree-OnTheMap
+[submodule "ios-nanodegree-PitchPerfect"]
+	path = ios-nanodegree-PitchPerfect
+	url = https://github.com/kinant/ios-nanodegree-PitchPerfect
+[submodule "ios-nanodegree-VirtualTourist"]
+	path = ios-nanodegree-VirtualTourist
+	url = https://github.com/kinant/ios-nanodegree-VirtualTourist
